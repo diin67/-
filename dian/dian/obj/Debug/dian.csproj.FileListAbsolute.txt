@@ -1,0 +1,14 @@
+C:\Users\afeaa\Desktop\Новая папка\dian\dian\bin\Debug\dian.exe.config
+C:\Users\afeaa\Desktop\Новая папка\dian\dian\bin\Debug\dian.exe
+C:\Users\afeaa\Desktop\Новая папка\dian\dian\bin\Debug\dian.pdb
+C:\Users\afeaa\Desktop\Новая папка\dian\dian\obj\Debug\dian.csproj.AssemblyReference.cache
+C:\Users\afeaa\Desktop\Новая папка\dian\dian\obj\Debug\MainWindow.g.cs
+C:\Users\afeaa\Desktop\Новая папка\dian\dian\obj\Debug\App.g.cs
+C:\Users\afeaa\Desktop\Новая папка\dian\dian\obj\Debug\dian_MarkupCompile.cache
+C:\Users\afeaa\Desktop\Новая папка\dian\dian\obj\Debug\MainWindow.baml
+C:\Users\afeaa\Desktop\Новая папка\dian\dian\obj\Debug\dian.g.resources
+C:\Users\afeaa\Desktop\Новая папка\dian\dian\obj\Debug\dian.Properties.Resources.resources
+C:\Users\afeaa\Desktop\Новая папка\dian\dian\obj\Debug\dian.csproj.GenerateResource.cache
+C:\Users\afeaa\Desktop\Новая папка\dian\dian\obj\Debug\dian.csproj.CoreCompileInputs.cache
+C:\Users\afeaa\Desktop\Новая папка\dian\dian\obj\Debug\dian.exe
+C:\Users\afeaa\Desktop\Новая папка\dian\dian\obj\Debug\dian.pdb
